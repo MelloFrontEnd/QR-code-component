@@ -6,8 +6,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ![desktop-design](https://user-images.githubusercontent.com/88978210/192890111-0f2ac322-42a8-4354-b4a0-08e7813f2bb3.jpg)
 
 
-- Solution URL: [Add solution URL here](https://github.com/MelloFrontEnd/QR-code-component.git)
-- Live Site URL: [Add live site URL here]([https://your-live-site-url.com](https://mellofrontend.github.io/QR-code-component/))
+- Solution URL: (https://github.com/MelloFrontEnd/QR-code-component.git)
+- Live Site URL: (https://mellofrontend.github.io/QR-code-component/)
 
 ### Built with
 
