@@ -9,7 +9,6 @@
 body{
     background: hsl(212, 45%, 89%);
     font-family: Outfit;
-    height: 100vh;
 }
 
 /* container for qr code img, h1 header and paragraph elements */
