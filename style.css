@@ -14,8 +14,8 @@ body{
 /* container for qr code img, h1 header and paragraph elements */
 
 .container{
-    width: 320px;
-    height: 497px;
+    max-width: 320px;
+    height: auto;
     background: #fff;
     border-radius: 20px;
     display: flex;
