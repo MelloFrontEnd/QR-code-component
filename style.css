@@ -9,16 +9,12 @@
 body{
     background: hsl(212, 45%, 89%);
     font-family: Outfit;
-    width: 100%;
-    height: 100vh;
 }
 
 /* container for qr code img, h1 header and paragraph elements */
 
 .container{
-    width: 320px;
-    height: 497px;
-    margin: 50px auto;
+    max-width: 320px;
     background: #fff;
     border-radius: 20px;
     display: flex;
